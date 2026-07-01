@@ -1,5 +1,5 @@
 # Making a city scene:
-print("                  CITY")
+print("             CITY           ")
 print("  ☁️☁️ ☁️☁️ ☁️  ☁️☁️☁️  ☁️☁️")
 print("🏠🌲🌲🏦🎋🏨🌲🌲🌲🏫🎋🏬🏬🏬🎋")
 print("       🚶        🐕        🚶")
