@@ -1,0 +1,12 @@
+# Creating an Email message:
+name = input("Name: ")
+age = input("Age: ")
+username = input("Username: ")
+print("Send to: " + username)
+print()
+print('Hi ' + name + ',')
+print()
+print("You're " + age + " which allows you to be eligible for this job.")
+print()
+print("Thank you,")
+print("XYZ.")
