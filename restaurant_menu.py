@@ -1,4 +1,4 @@
-# Creating a vegan and non–vegan menu:
+# Offering a vegan and non–vegan menu:
 choice = input("Are you a vegan, yes or no? ")
 if choice == "yes":
     print("Here's the vegan options:")
