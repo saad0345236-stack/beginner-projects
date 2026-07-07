@@ -19,3 +19,7 @@ if age > 17:
     print("Eligible to vote.")
 else:
     print("Not eligible to vote.")
+# More practicing:
+sentence = "I'm learning Python"
+print(sentence[0:4])
+print(sentence[:-1])
