@@ -11,3 +11,5 @@ ask = int(input("Weight: "))
 ask_2 = input("Is in pounds? ")
 if ask_2.upper() == "YES":
     print(f"You're {ask} pounds.")
+else:
+    print("The answer must be in pounds.")
