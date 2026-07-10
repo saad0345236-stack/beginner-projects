@@ -1,4 +1,4 @@
-# Making a number guessing game with Planets:
+# Making a number guessing game:
 answer = 5
 guess_count = 0
 guess_limit = 3
