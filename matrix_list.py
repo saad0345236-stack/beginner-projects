@@ -5,7 +5,7 @@ the_list = [
     [21, 24, 27]
 ]
 print(the_list)
-print("Change any 1 value from the given list.")
+print("Change any 1 value in the given list.")
 row = int(input("Row index? "))
 column = int(input("Column index? "))
 change = int(input("What's the new value? "))
