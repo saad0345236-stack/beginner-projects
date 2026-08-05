@@ -1,4 +1,4 @@
-# Making a To Do List:
+# Final version of the To Do List:
 try:
     app = []
     order = 0
