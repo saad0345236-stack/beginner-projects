@@ -1,4 +1,4 @@
-# Making a To Do List:
+# Updating the To Do List:
 try:
     app = []
     order = 0
@@ -11,7 +11,7 @@ try:
             app.remove(ask)
         else:
             pass
-        mark = input("Do you want to mark a task as done? (y/n): ").lower()
+        mark = input("Do you want to mark a task as done? (y/n): ").lower()q
         if mark == 'y':
             task = int(input("Which one (index)? "))
             app[task] = [app[task] + '(DONE)']
