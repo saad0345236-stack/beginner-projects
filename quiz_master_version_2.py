@@ -1,4 +1,4 @@
-# Quiz master program:
+# Quiz master program version 2:
 print("Welcome to this quiz!")
 print("Try to answer all 5 questions")
 
