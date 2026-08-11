@@ -1,4 +1,4 @@
-# Inventory management system of a store:
+# Inventory management system of a store (version 2):
 try:
     number = 0
     products = []
