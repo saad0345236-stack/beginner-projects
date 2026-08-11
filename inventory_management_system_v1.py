@@ -1,4 +1,4 @@
-# Inventory management system of a store:
+# Inventory management system of a store (version 1):
 try:
     products = []
     while True:
