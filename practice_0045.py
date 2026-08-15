@@ -20,7 +20,6 @@ def valid_password(passcode):
 
     if has_digit:
         print("Passcode has atleast one digit✓")
-
     else:
         print("Passcode needs atleast one digit.")
     
