@@ -1,4 +1,4 @@
-# Sentence analyzer:
+# Sentence analyzer version 2:
 def sentence_analyzer(sentence):
     words = sentence.split()
 
