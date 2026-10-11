@@ -1,4 +1,4 @@
-# Practicing Sesison:
+# Practicing Session:
 while True:
     change = float(input("Change: "))
     if change >= 0:
